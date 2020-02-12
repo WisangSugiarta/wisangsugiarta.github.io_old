@@ -1,0 +1,3 @@
+name: Wisang Sugiarta
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
