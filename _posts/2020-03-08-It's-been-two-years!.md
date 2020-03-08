@@ -1,5 +1,5 @@
 
-<img src="https://github.com/WisangSugiarta/wisangsugiarta.github.io/blob/master/css/IMG_1534.jpeg" width="378" height="504" />
+<img src="https://github.com/WisangSugiarta/wisangsugiarta.github.io/blob/master/css/IMG_1534.jpeg" width="378" height="504" \>
 
 
 
