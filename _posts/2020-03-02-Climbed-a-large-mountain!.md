@@ -1,5 +1,4 @@
-![1](/_posts/IMG_1897.jpeg){:height="50%" width="50%"}
-![2](/_posts/IMG_1898.jpeg){:height="50%" width="50%"}
+![1](/_posts/IMG_1897.jpeg){:height="50%" width="50%"} ![2](/_posts/IMG_1898.jpeg){:height="50%" width="50%"}
 
 
 
