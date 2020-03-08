@@ -1,4 +1,4 @@
-![](/css/IMG_1534.jpeg)<img src="IMG_1534.jpeg" height="40%" width="40%">
+<img src="IMG_1534.jpeg" height="40%" width="40%">
 
 
 you can [get the PDF](/css/Academic_Resume.pdf) directly.
