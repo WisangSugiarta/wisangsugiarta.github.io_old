@@ -1,4 +1,4 @@
-![](/css/IMG_1534.jpeg)
+![](/css/IMG_1534.jpeg){:height="378px" width="504px"}
 
 
 Just an memory with Mat! It's been really fun so far :)
