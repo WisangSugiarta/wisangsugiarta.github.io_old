@@ -1,4 +1,4 @@
-![1](/css/IMG_1897.jpeg){:height="50%" width="50%"} ![2](/css/IMG_1898.jpeg){:height="50%" width="50%"}
+![1](/css/IMG_1897.jpeg){:height="40%" width="40%"} ![2](/css/IMG_1898.jpeg){:height="40%" width="40%"}
 
 
 
