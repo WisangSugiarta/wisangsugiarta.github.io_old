@@ -1,5 +1,5 @@
+![My helpful screenshot](/css/IMG_1534.jpeg)
 
-<img src="css/IMG_1534.jpeg" width="378" height="504" />
 
 
 
