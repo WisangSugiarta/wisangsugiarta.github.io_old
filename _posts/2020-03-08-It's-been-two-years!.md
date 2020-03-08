@@ -1,5 +1,5 @@
 
-<img src="/IMG_1534.jpeg" width="378" height="504" align="middle">
+<img src="css/IMG_1534.jpeg" width="378" height="504" align="middle">
 
 
 
